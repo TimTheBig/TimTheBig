@@ -1,7 +1,7 @@
 I’m @TimTheBig\
 I know rust, python and typescript, I prefer rust.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TimTheBig&count_private=true&show_icons=true&langs_count=8&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)\
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TimTheBig&count_private=true&show_icons=true&langs_count=8&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 TimTheBig/TimTheBig is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
