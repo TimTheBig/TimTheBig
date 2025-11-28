@@ -20,7 +20,7 @@ jobs:
           committer_token: ${{secrets.GITHUB_TOKEN}}
 
           repositories_affiliations: owner,collaborator
-          repositories_skipped: TimTheBig/pass,TimTheBig/Obsidian
+          repositories_skipped: TimTheBig/pass,TimTheBig/Obsidian,TimTheBig/TimTheBig
 
           config_timezone: America/Toronto
 
